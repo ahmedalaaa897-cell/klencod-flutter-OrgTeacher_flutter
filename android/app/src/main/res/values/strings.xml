@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">مدرّس الأورج</string>
+    <string name="svc_desc">بيرسم تعليمات الدروس فوق تطبيق الأورج، وبيمرّر ضغطاتك الصح للتطبيق.</string>
+</resources>
